@@ -7,7 +7,6 @@
 Hey, nice to see you here :)
 
 - 🔭 I’m currently working on my social skills
-- 👯 I’m looking to collaborate on some nice minecraft networks
 - ⚡ Fun fact: Humanly unwelcome
 
 ## Github Stats:
