@@ -6,8 +6,7 @@
 
 Hey, nice to see you here :)
 
-- 🔭 I’m currently working on my social skills
-- ⚡ Fun fact: Humanly unwelcome
+- ⚡ Fun fact: Tryna to come out of the minecraft scene, but.. Stepbro, I'm stuck
 
 ## Github Stats:
 
