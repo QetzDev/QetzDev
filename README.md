@@ -10,7 +10,7 @@ Hey, nice to see you here :)
 
 ## Github Stats:
 
-[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=Qetzing&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=0d9fde&hide_border=true)](https://github.com/Qetzing/)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Qetzing&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=0d9fde&hide_border=true)](https://github.com/Qetzing/)
 
 ## Mainly used languages 
 
